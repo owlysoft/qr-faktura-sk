@@ -1,0 +1,52 @@
+.text-center{
+    text-align: center;
+}
+h1, h2, h3, h4, h5{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+article{
+    line-height: 20px;
+    padding-bottom: 15px;
+}
+article header{
+    margin-bottom: 20px;
+    padding-bottom: calc(var(--block-spacing-vertical)*0.5);
+}
+ul li{
+    list-style: disc;
+    font-size: calc(var(--font-size)*1.2);
+}
+.header{
+    margin-top: 10px;
+}
+.logo{
+    width: 150px;
+}
+
+.menu{
+    text-align: center;
+    margin: 20px auto;
+}
+.menu a {
+	display: inline-block;
+    font-size: var(--font-size);
+	margin: 0.2rem 0.5rem;
+    padding: 0.2rem 1rem;
+	background: var(--secondary);
+    color: var(--secondary-inverse);
+	border-radius: 10px;
+}
+.menu a:hover{
+    text-decoration: none;
+    background: var(--secondary-hover);
+}
+
+.footer{
+    padding-bottom: 10px;
+}
+

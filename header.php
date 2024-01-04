@@ -2,7 +2,7 @@
     <div class="container">
         <div class="logo-wrapper text-center">
             <a href="https://www.qr-faktura.sk" title="QR-Faktúra">
-                <img src="./logo.webp" class="logo" loading="lazy">
+                <img src="./logo.webp" class="logo" loading="lazy" alt="Logo QR-Faktúra.sk">
             </a>
         </div>
         <div class="menu">

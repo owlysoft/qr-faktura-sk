@@ -1,4 +1,7 @@
 <title>QR-Faktúra.sk</title>
+<meta charset="utf-8">
+<meta name="description" content="Popis formátu QR-Faktúry pre Slovensko">
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- CSS -->

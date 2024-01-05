@@ -21,6 +21,9 @@ ul li{
     list-style: disc;
     font-size: calc(var(--font-size)*1.2);
 }
+code{
+    color: #666;
+}
 .header{
     margin-top: 10px;
 }

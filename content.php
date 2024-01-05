@@ -310,7 +310,7 @@
                     <code>SQF*1.0*ID:2024001*DD:20240101*AM:123.45*MSG:KONZULTACIA 01/2024*</code>
                 </td>
                 <td class="text-center">
-                    <img src="api/?ID=2024001&DD=20240101&AM=123.45&MSG=KONZULTACIA%2001/2024" loading="lazy" class="qrinvoice_preview" />
+                    <img src="api/?ID=2024001&DD=20240101&AM=123.45&MSG=KONZULTACIA%2001/2024" loading="lazy" class="qrinvoice_preview" alt="Príklad QR kódu" />
                 </td>
             </tr>
         </table>
